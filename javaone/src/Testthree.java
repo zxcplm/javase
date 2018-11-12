@@ -37,7 +37,9 @@ public class Testthree
 	   s2.name="李超";
 	   s2.salary= 1000;
 	   
+	   //只有工资
 	   System.out.println(s2.name+"工资为"+s2.salary);
+	   //工资和奖金
 	   s2.addsalary();
 }
   
