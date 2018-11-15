@@ -28,7 +28,7 @@ public class Testtwo
 	public static void main(String[] args)
 	{
 		//static方法是不能够直接使用类的全局变量
-		// name="刘冬孝";
+		// name="李进";
 		System.out.println("1-->"+count);
 		
 		//在main方法中，对实例变量的访问，必须首先创建对象
